@@ -144,4 +144,4 @@ SOFTWARE.
 
 ## The Links
 
-<a href="https://github.com/WildCodeSchool/orleans_0321_hackathon">Link to the repository of <b>Starter Kit WCS Web</b></a>
+<a href="https://github.com/WildCodeSchool/orleans_0321_hackathon">Link to the repository of <b>Starter Kit WCS</b></a>
