@@ -1,4 +1,4 @@
-<h1>Symfony Starter Kit WCS (Starter Kit - Symfony 5.*, WCS)</h1>
+<h1>Symfony Starter Kit WCS (Starter Kit - Symfony 5.*, WCS Web PHP)</h1>
 
 ### Starter Kit - Symfony 5.* created by WCS, we used for "Project 3" and "Hackathon"
 
