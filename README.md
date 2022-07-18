@@ -75,8 +75,6 @@ If you develop on Windows, you should edit you git configuration to change your 
 
 ### Deployment
 
-![Img caprover](https://captain.phprover.wilders.dev/icon-512x512.png)
-
 To deploy on Cap Rover, follow [instructions in the manual](https://caprover.com/docs/get-started.html) and add, at least, two  *"Environmental Variables"* in *"App Configs"*  tab:
 
 * `APP_ENV` with `prod`/`dev` value
