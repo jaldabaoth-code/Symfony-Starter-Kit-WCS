@@ -49,10 +49,11 @@ It's symfony website-skeleton project with some additional tools to validate cod
 
 #### Install
 
-1. Clone this project
-2. Run `composer install`
-3. Run `yarn install`
-4. Run `yarn encore dev` to build assets
+1. Clone the repo from GitHub : `git clone git@github.com:jaldabaoth-code/Symfony-Starter-Kit-WCS.git`
+2. Enter the directory : `cd Symfony-Starter-Kit-WCS`
+3. Run `composer install`
+4. Run `yarn install`
+5. Run `yarn encore dev` to build assets
 
 #### Working
 
